@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "375621477644",
+    "project_id": "one-for-another",
+    "storage_bucket": "one-for-another.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:375621477644:android:5c9edfb0695cb5950e5529",
+        "android_client_info": {
+          "package_name": "com.oneforanother"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "375621477644-s3n1nane3b8t1pugp6tuse929o4mtt7e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDwUe9AGzm8iN2jj3VW7Km0oC6K4Q_ttCk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "375621477644-s3n1nane3b8t1pugp6tuse929o4mtt7e.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "375621477644-s6deb7dib0opij7hfq2hbsjjp6mpjpqv.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.oneforanother.app"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
